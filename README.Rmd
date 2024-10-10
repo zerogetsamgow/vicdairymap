@@ -1,0 +1,84 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# vicdairymap
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+vicdairymap is a simple package containing sf objects for the Victorian dairy regions
+
+Victoria has three  - Western, Gippsland and Murray - made up of are groups of local government areas. 
+
+We have used this simple aggregation approach to create sf objects by summarising objects obtained using `strayr::read_absmap("lga2021")`
+
+Local government areas outside of the non-dairy regions are assigned to arbirtary groups
+
+## Installation
+
+You can install the development version of vicdairymap from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("zerogetsamgow/vicdairymap")
+```
+
+## region_map
+
+The following plot shows a map of the four regions which are contained in `vicdairymap::area_map`.
+
+```{r region_map}
+library(vicdairymap)
+
+## basic region_map
+ggplot2::ggplot(
+  dairy_region_map,
+  ggplot2::aes(
+    geometry = geometry,
+    fill = region_name,
+    label = region_name,
+    x = cent_long,
+    y = cent_lat
+    )
+  ) +
+  ggplot2::geom_sf(
+   colour = "darkgrey"
+   )+
+  ggplot2::geom_label(
+    data = dairy_region_map |> filter(is_dairy),
+    colour = "black", fill = "grey", size = 3)+
+  ggplot2::scale_fill_viridis_d(guide = "none")+
+  ggthemes::theme_map()+
+  ggplot2::theme(
+    legend.position.inside = c(.7,.7)
+  )
+
+```
+
+
+
+
+
+## region_tbl
+
+The package contains a third dataset `vicdairymap::region_tbl` which shows the mapping of local government areas to regions.
+
+```{r region_tbl}
+## print full table of regions, areas and lgas
+knitr::kable(
+  dairy_region_tbl
+)
+
+```

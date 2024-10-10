@@ -1,0 +1,80 @@
+region_name,lga_name,is_dairy
+Central,Banyule,FALSE
+Central,Bayside,FALSE
+Central,Boroondara,FALSE
+Central,Brimbank,FALSE
+Central,Cardinia,FALSE
+Central,Casey,FALSE
+Central,Central Goldfields,FALSE
+Central,Darebin,FALSE
+Central,Frankston,FALSE
+Central,Glen Eira,FALSE
+Central,Greater Dandenong,FALSE
+Central,Greater Geelong,FALSE
+Central,Hobsons Bay,FALSE
+Central,Hume,FALSE
+Central,Kingston,FALSE
+Central,Knox,FALSE
+Central,Macedon Ranges,FALSE
+Central,Manningham,FALSE
+Central,Maribyrnong,FALSE
+Central,Maroondah,FALSE
+Central,Melbourne,FALSE
+Central,Melton,FALSE
+Central,Merri-bek,FALSE
+Central,Mitchell,FALSE
+Central,Monash,FALSE
+Central,Moonee Valley,FALSE
+Central,Mornington Peninsula,FALSE
+Central,Mount Alexander,FALSE
+Central,Murrindindi,FALSE
+Central,Nillumbik,FALSE
+Central,Port Phillip,FALSE
+Central,Queenscliffe,FALSE
+Central,Stonnington,FALSE
+Central,Strathbogie,FALSE
+Central,Whitehorse,FALSE
+Central,Whittlesea,FALSE
+Central,Wyndham,FALSE
+Central,Yarra,FALSE
+Central,Yarra Ranges,FALSE
+Gippsland,Bass Coast,TRUE
+Gippsland,Baw Baw,TRUE
+Gippsland,East Gippsland,TRUE
+Gippsland,Latrobe,TRUE
+Gippsland,South Gippsland,TRUE
+Gippsland,Wellington,TRUE
+Murray,Alpine,TRUE
+Murray,Benalla,TRUE
+Murray,Campaspe,TRUE
+Murray,Gannawarra,TRUE
+Murray,Greater Bendigo,TRUE
+Murray,Greater Shepparton,TRUE
+Murray,Indigo,TRUE
+Murray,Loddon,TRUE
+Murray,Mansfield,TRUE
+Murray,Moira,TRUE
+Murray,Swan Hill,TRUE
+Murray,Towong,TRUE
+Murray,Wangaratta,TRUE
+Murray,Wodonga,TRUE
+Northeast,Buloke,FALSE
+Northeast,Hindmarsh,FALSE
+Northeast,Mildura,FALSE
+Northeast,Northern Grampians,FALSE
+Northeast,Yarriambiack,FALSE
+Western,Ararat,TRUE
+Western,Ballarat,TRUE
+Western,Colac Otway,TRUE
+Western,Corangamite,TRUE
+Western,Glenelg,TRUE
+Western,Golden Plains,TRUE
+Western,Hepburn,TRUE
+Western,Horsham,TRUE
+Western,Moorabool,TRUE
+Western,Moyne,TRUE
+Western,Pyrenees,TRUE
+Western,Southern Grampians,TRUE
+Western,Surf Coast,TRUE
+Western,Warrnambool,TRUE
+Western,West Wimmera,TRUE

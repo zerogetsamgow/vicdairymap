@@ -1,0 +1,13 @@
+Package: vicdairymap
+Title: Victorian dairy region sf objects
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sam", "Gow", , "sam.gow@gmail.com", role = c("aut", "cre"))
+Description: This package contains sf objects for the Victorian dairy regions 
+    Western, Murray, Gippsland. Local government areas not in these regions are assigned to 
+    arbitrary regions, Northeast and Central
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
