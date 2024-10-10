@@ -11,7 +11,7 @@
 #'   ...
 #' }
 #' @source <https://www.vic.gov.au/regional-model-department-education>
-"area_map"
+"dairy_region_map"
 
 
 #' Region Table
@@ -27,6 +27,6 @@
 #'   ...
 #' }
 #' @source <https://www.vic.gov.au/regional-model-department-education>
-"region_tbl"
+"dairy_region_tbl"
 
 

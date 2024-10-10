@@ -1,43 +1,43 @@
 region_name,lga_name,is_dairy
-Central,Banyule,FALSE
-Central,Bayside,FALSE
-Central,Boroondara,FALSE
-Central,Brimbank,FALSE
-Central,Cardinia,FALSE
-Central,Casey,FALSE
-Central,Central Goldfields,FALSE
-Central,Darebin,FALSE
-Central,Frankston,FALSE
-Central,Glen Eira,FALSE
-Central,Greater Dandenong,FALSE
-Central,Greater Geelong,FALSE
-Central,Hobsons Bay,FALSE
-Central,Hume,FALSE
-Central,Kingston,FALSE
-Central,Knox,FALSE
-Central,Macedon Ranges,FALSE
-Central,Manningham,FALSE
-Central,Maribyrnong,FALSE
-Central,Maroondah,FALSE
-Central,Melbourne,FALSE
-Central,Melton,FALSE
-Central,Merri-bek,FALSE
-Central,Mitchell,FALSE
-Central,Monash,FALSE
-Central,Moonee Valley,FALSE
-Central,Mornington Peninsula,FALSE
-Central,Mount Alexander,FALSE
-Central,Murrindindi,FALSE
-Central,Nillumbik,FALSE
-Central,Port Phillip,FALSE
-Central,Queenscliffe,FALSE
-Central,Stonnington,FALSE
-Central,Strathbogie,FALSE
-Central,Whitehorse,FALSE
-Central,Whittlesea,FALSE
-Central,Wyndham,FALSE
-Central,Yarra,FALSE
-Central,Yarra Ranges,FALSE
+Rest of Victoria,Banyule,FALSE
+Rest of Victoria,Bayside,FALSE
+Rest of Victoria,Boroondara,FALSE
+Rest of Victoria,Brimbank,FALSE
+Rest of Victoria,Cardinia,FALSE
+Rest of Victoria,Casey,FALSE
+Rest of Victoria,Central Goldfields,FALSE
+Rest of Victoria,Darebin,FALSE
+Rest of Victoria,Frankston,FALSE
+Rest of Victoria,Glen Eira,FALSE
+Rest of Victoria,Greater Dandenong,FALSE
+Rest of Victoria,Greater Geelong,FALSE
+Rest of Victoria,Hobsons Bay,FALSE
+Rest of Victoria,Hume,FALSE
+Rest of Victoria,Kingston,FALSE
+Rest of Victoria,Knox,FALSE
+Rest of Victoria,Macedon Ranges,FALSE
+Rest of Victoria,Manningham,FALSE
+Rest of Victoria,Maribyrnong,FALSE
+Rest of Victoria,Maroondah,FALSE
+Rest of Victoria,Melbourne,FALSE
+Rest of Victoria,Melton,FALSE
+Rest of Victoria,Merri-bek,FALSE
+Rest of Victoria,Mitchell,FALSE
+Rest of Victoria,Monash,FALSE
+Rest of Victoria,Moonee Valley,FALSE
+Rest of Victoria,Mornington Peninsula,FALSE
+Rest of Victoria,Mount Alexander,FALSE
+Rest of Victoria,Murrindindi,FALSE
+Rest of Victoria,Nillumbik,FALSE
+Rest of Victoria,Port Phillip,FALSE
+Rest of Victoria,Queenscliffe,FALSE
+Rest of Victoria,Stonnington,FALSE
+Rest of Victoria,Strathbogie,FALSE
+Rest of Victoria,Whitehorse,FALSE
+Rest of Victoria,Whittlesea,FALSE
+Rest of Victoria,Wyndham,FALSE
+Rest of Victoria,Yarra,FALSE
+Rest of Victoria,Yarra Ranges,FALSE
 Gippsland,Bass Coast,TRUE
 Gippsland,Baw Baw,TRUE
 Gippsland,East Gippsland,TRUE
@@ -58,11 +58,11 @@ Murray,Swan Hill,TRUE
 Murray,Towong,TRUE
 Murray,Wangaratta,TRUE
 Murray,Wodonga,TRUE
-Northeast,Buloke,FALSE
-Northeast,Hindmarsh,FALSE
-Northeast,Mildura,FALSE
-Northeast,Northern Grampians,FALSE
-Northeast,Yarriambiack,FALSE
+Rest of Victoria,Buloke,FALSE
+Rest of Victoria,Hindmarsh,FALSE
+Rest of Victoria,Mildura,FALSE
+Rest of Victoria,Northern Grampians,FALSE
+Rest of Victoria,Yarriambiack,FALSE
 Western,Ararat,TRUE
 Western,Ballarat,TRUE
 Western,Colac Otway,TRUE
